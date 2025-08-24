@@ -2,7 +2,7 @@
 <div align="center">
 
   <img src="https://img.shields.io/github/downloads/maxtaran2010/cs2-regionpick/total.svg"/>
-  <img src="https://img.shields.io/github/license/maxtaran2010/cs2-regionpick"/>
+  <img src="https://img.shields.io/github/v/release/FN-FAL113/cs2-server-picker"/>
   <img src="https://img.shields.io/github/stars/maxtaran2010/cs2-regionpick"/>
 
 </div>
