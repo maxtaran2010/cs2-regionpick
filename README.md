@@ -13,4 +13,4 @@ Then start the app
 `python3 changeregion.py`
 
 ## 📷 Screenshot
-![CS2ServerPicker](https://github.com/user-attachments/assets/e5c7c2a7-c560-4826-bcd5-9540d66abec6)
+![CS2ServerPicker](https://github.com/maxtaran2010/cs2-regionpick/blob/main/screenshot.png?raw=true)
